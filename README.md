@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Database: SQL & NoSQL**
 
-- 💬 Ask me about **"💻 building dynamic, full-stack applications from the ground up!"**
+- 💬 "💻 Passionate about building seamless web experiences with MERN! Ask me about APIs, React magic, MongoDB, and all things full-stack!"
 
 - 📫 How to reach me **vinaybagde0@gmail.com**
 
