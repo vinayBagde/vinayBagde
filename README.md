@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinaybagde" alt="vinaybagde" /></a> </p>
 
-- 🌱 I’m currently learning **Mysql, MongoDb**
+- 🌱 I’m currently learning **Database: SQL & NoSQL**
 
-- 💬 Ask me about **html, CSS, java Script,react**
+- 💬 Ask me about **"💻 building dynamic, full-stack applications from the ground up!"**
 
 - 📫 How to reach me **vinaybagde0@gmail.com**
 
