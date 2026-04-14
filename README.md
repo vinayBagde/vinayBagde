@@ -41,6 +41,11 @@
 <h3>🔝 Top Contributed Repo</h3>
 <p><img src="https://github-contributor-stats.vercel.app/api?username=vinayBagde&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="vinayBagde"></p>
 
+# Explore My Work
+Below are some of my latest projects (🌐 Live Demo · 💻 Source Code):
+| [<img src="https://raw.githubusercontent.com/CodingWithJiro/frontend-mentor-where-in-the-world/main/public/img/site-preview-desktop_1440x960.png" alt="Project preview." width="400">](https://wanderlust-cw2p.onrender.com/listings) |       [<img src="https://raw.githubusercontent.com/CodingWithJiro/w3schools-js-tutorial-clone-site/main/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://weatherapp-react-vinay.netlify.app/)        | [<img src="https://raw.githubusercontent.com/CodingWithJiro/frontend-mentor-browser-extension-manager/main/public/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://browser-extension-fm-jiro.netlify.app/) |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                  **Wanderlust** [🌐](https://wanderlust-cw2p.onrender.com/listings) · [💻](https://github.com/vinayBagde/Wanderlust) <br/> _Find, list, and review travel stays all in one place.!_                  | **Weatherly** [🌐](https://weatherapp-react-vinay.netlify.app/) · [💻](https://github.com/vinayBagde/mini-project-react) <br/> _Fast and accurate weather forecasts at your fingertips.!_ |       **Musify** [🌐](https://musifyfrontend.netlify.app/) · [💻](https://github.com/vinayBagde/spotify-clone) <br/> _Musify is a stylish Spotify clone built purely with HTML and CSS.!_        
 
 
 
