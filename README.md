@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Airbnb webpage**
 
-- 🌱 I’m currently learning **Database: SQL & NoSQL**
+- 🌱 I’m currently learning **Kevin Powell's onquering Responsive Layouts**
 
 - 💬 Ask me about **MEARN**
 
@@ -42,10 +42,13 @@
 <p><img src="https://github-contributor-stats.vercel.app/api?username=vinayBagde&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="vinayBagde"></p>
 
 # Explore My Work
-Below are some of my latest projects (🌐 Live Demo · 💻 Source Code):
+Below are some of my latest projects (💻 Live Demo . :octocat: Source Code):
 | [<img src="https://github.com/vinayBagde/vinayBagde/blob/main/images/Screenshot%202026-04-13%20231739.png" alt="Project preview." width="400">](https://wanderlust-cw2p.onrender.com/listings) |       [<img src="https://github.com/vinayBagde/vinayBagde/blob/main/images/Screenshot%202026-04-14%20223905.png" alt="Project preview." width="400">](https://weatherapp-react-vinay.netlify.app/)        | [<img src="https://github.com/vinayBagde/vinayBagde/blob/main/images/Screenshot%202026-04-14%20224234.png" alt="Project preview." width="400">](https://musifyfrontend.netlify.app/) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                  **Wanderlust** [🌐](https://wanderlust-cw2p.onrender.com/listings) · [💻](https://github.com/vinayBagde/Wanderlust) <br/> _Find, list, and review travel stays all in one place.!_                  | **Weatherly** [🌐](https://weatherapp-react-vinay.netlify.app/) · [💻](https://github.com/vinayBagde/mini-project-react) <br/> _Fast and accurate weather forecasts at your fingertips.!_ |       **Musify** [🌐](https://musifyfrontend.netlify.app/) · [💻](https://github.com/vinayBagde/spotify-clone) <br/> _Musify is a stylish Spotify clone built purely with HTML and CSS.!_        
+|                  **Wanderlust** [💻](https://wanderlust-cw2p.onrender.com/listings) . [:octocat:](https://github.com/vinayBagde/Wanderlust) <br/> _Find, list, and review travel stays all in one place.!_                  | **Weatherly** [💻](https://weatherapp-react-vinay.netlify.app/) . [:octocat:](https://github.com/vinayBagde/mini-project-react) <br/> _Fast and accurate weather forecasts at your fingertips.!_ |       **Musify** [💻](https://musifyfrontend.netlify.app/) . [:octocat:](https://github.com/vinayBagde/spotify-clone) <br/> _Musify is a stylish Spotify clone built purely with HTML and CSS.!_        
+
+
+
 
 
 
