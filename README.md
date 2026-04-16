@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Airbnb webpage**
 
-- 🌱 I’m currently learning **Kevin Powell's onquering Responsive Layouts**
+- 🌱 I’m currently learning **Kevin Powell's Conquering Responsive Layouts**
 
 - 💬 Ask me about **MEARN**
 
